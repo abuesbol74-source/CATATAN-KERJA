@@ -3,18 +3,11 @@
 
 ---
 
-## 🐉 1. PERINTAH SAKTI KALI LINUX (Desktop/Ubuntu)
-```bash
-sudo apt update && sudo apt install git bash nano -y && git clone https://github.com/abuesbol74-source/CATATAN-KERJA.git && cd CATATAN-KERJA && chmod +x kong.sh && ././kong.sh
-```
+### 📄 INFORMASI PROJECT:
+- **Project Name:** KONG KERJA (April 2026 Edition)
+- **Developer:** LAKSAMANA DZU NUR NAIN
+- **Team ID:** TEAM MR SOUL | MR-J86
+- **Fitur:** Pencatat Jam Kerja, Kalender Otomatis April 2026, Interface ASCII High-Contrast.
 
 ---
-
-## 📱 2. PERINTAH SAKTI TERMUX (Android)
-```bash
-pkg update && pkg upgrade -y && pkg install git bash nano ncurses-utils -y && git clone https://github.com/abuesbol74-source/CATATAN-KERJA.git && cd CATATAN-KERJA && chmod +x kong.sh && ././kong.sh
-```
-
----
-**TEAM MR SOUL | MR-J86**
-*Support by LAKSAMANA DZU NUR NAIN*
+*Support by LAKSAMANA DZU NUR AIN*
