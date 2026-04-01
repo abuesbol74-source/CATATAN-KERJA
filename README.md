@@ -22,7 +22,24 @@ Buka Termux dan jalankan perintah berikut:
 ```bash
 pkg update && pkg upgrade
 pkg install git bash nano -y
-git clone [https://github.com/abuesbol74/CATATAN-KERJA.git](https://github.com/abuesbol74/CATATAN-KERJA.git)
+git clone https://github.com/abuesbol74/CATATAN-KERJA.git
 cd CATATAN-KERJA
 chmod +x kong.sh
+./kong.sh
+
+
+
+# 🛠️ KONG KERJA - April 2026
+> **Created by LAKSAMANA DZU NUR NAIN**
+
+---
+
+## 🐉 1. KHUSUS PENGGUNA KALI LINUX (Debian/Ubuntu)
+Gunakan perintah di bawah ini jika Anda menjalankan script di sistem operasi Linux Desktop atau Server:
+
+```bash
+sudo apt update && sudo apt install git bash nano -y 
+git clone https://github.com/abuesbol74-source/CATATAN-KERJA.git 
+cd CATATAN-KERJA 
+chmod +x kong.sh 
 ./kong.sh
