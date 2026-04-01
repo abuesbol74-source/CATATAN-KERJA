@@ -16,4 +16,5 @@ pkg update && pkg upgrade -y && pkg install git bash nano ncurses-utils -y && gi
 ```
 
 ---
-*Support by LAKSAMANA DZU NUR AIN*
+**TEAM MR SOUL | MR-J86**
+*Support by LAKSAMANA DZU NUR NAIN*
