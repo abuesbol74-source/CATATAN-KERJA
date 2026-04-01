@@ -1,5 +1,5 @@
 # 🛠️ KONG KERJA - April 2026
-> **Created by LAKSAMANA DZU NUR NAIN**
+> **Created by LAKSAMANA DZU NUR AIN**
 
 ---
 
@@ -142,5 +142,4 @@ done
 ```
 
 ---
-**TEAM MR SOUL | MR-J86**
-*Support by LAKSAMANA DZU NUR NAIN*
+*Support by LAKSAMANA DZU NUR AIN*
